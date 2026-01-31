@@ -109,6 +109,6 @@ These findings can support decision-making in **content planning, recommendation
 ---
 
 ## Author
-**Aryan**  
+**Aryan Masih**  
 Data Analytics Portfolio Project | Netflix Strategy Case Study
 
