@@ -32,7 +32,7 @@ The dataset includes Netflix titles and relevant attributes such as:
 
 ## Tools & Technologies
 - **Python**
-- **Jupyter Notebook**
+- **Google Colab**
 - **Pandas** (data manipulation)
 - **NumPy** (numerical analysis)
 - **Matplotlib & Seaborn** (visualizations)
